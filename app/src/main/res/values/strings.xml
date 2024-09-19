@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="placeholder"> Enter your name</string>
+    <string name="button_text">Submit</string>
+</resources>
